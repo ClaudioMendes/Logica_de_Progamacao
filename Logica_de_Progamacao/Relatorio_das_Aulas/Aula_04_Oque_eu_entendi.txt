@@ -1,0 +1,4 @@
+nesta aula eu aprendi que as tomadas de decisões são muito importante para se criar 
+um programa e aprendi trabalhar com opções dentro do programa por exemplo 
+se resposta for sim apresente um resultado, se a resposta for não apresente outro
+resultado

@@ -1,0 +1,2 @@
+nesta aula eu aprendi a usar laço de repetição no portugol studio e automatizei
+a tabuada fazendo com que o valor da tabuada desejada

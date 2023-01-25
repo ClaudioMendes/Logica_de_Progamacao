@@ -1,0 +1,3 @@
+nesta aula eu aprendi como usar estrutura de repetição para exibir um resultado
+de forma altomática sem precisar escrever linha por linha do código, no caso desta 
+aula criei uma tabuada do 9 que exibisse até o 9X10

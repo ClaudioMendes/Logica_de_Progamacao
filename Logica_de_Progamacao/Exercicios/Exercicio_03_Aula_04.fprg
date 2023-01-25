@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Claudio_Oliveira"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-01-23 03:30:46 "/>
+        <attribute name="created" value="Q2xhdWRpb19PbGl2ZWlyYTtURVJNSU5BTC01OEM3OzIwMjMtMDEtMjM7IjAyOjI5OjA4ICI7MzY5Ng=="/>
+        <attribute name="edited" value="Q2xhdWRpb19PbGl2ZWlyYTtURVJNSU5BTC01OEM3OzIwMjMtMDEtMjM7IjAzOjMwOjQ2ICI7NDszODAy"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="janeiro, fevereiro, marco, abril, media" type="Real" array="False" size=""/>
+            <input variable="janeiro"/>
+            <input variable="fevereiro"/>
+            <input variable="marco"/>
+            <input variable="abril"/>
+            <assign variable="media" expression="janeiro+fevereiro+marco+abril"/>
+            <output expression="media" newline="True"/>
+            <if expression="media&gt;=5000">
+                <then>
+                    <output expression="&quot;Pareb&#233;ns voc&#234; vai receber uma bonifica&#231;&#227;o de 10%&quot;" newline="True"/>
+                </then>
+                <else>
+                    <output expression="&quot;Voc&#234; recebera uma bonifica&#231;&#227;o de 3%&quot;" newline="True"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>

@@ -1,0 +1,4 @@
+Nesta aula eu aprendi oque é um fluxograma de dados que é a parte visual de um 
+fluxo de dados, aprendi também que as variáveis são espaços localizado na memória
+que pode representar ou reter um valor, aprendi também usar a ferramenta Flowgorithm
+como mostrado no exercício 2
