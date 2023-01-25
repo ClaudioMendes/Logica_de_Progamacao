@@ -1,0 +1,5 @@
+logica de progamação aula 1
+
+Nesta aula eu aprendi que antes de começar a progamar é importante fazer 
+um mapa mental de como vc vai resolver o problema proposto 
+pelo progama que irá iniciar

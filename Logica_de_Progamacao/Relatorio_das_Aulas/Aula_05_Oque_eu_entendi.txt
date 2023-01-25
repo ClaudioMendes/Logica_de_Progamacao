@@ -1,0 +1,2 @@
+nesta aula eu aprendi a concatenar variáveis fazendo assim uma junção de 
+texto com o valor atribuido a uma variável 

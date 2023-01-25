@@ -1,0 +1,2 @@
+nesta aula eu aprendi a fazer o uso de matriz adicionando valores a
+ela e depois exibindo esses valores na aplicação

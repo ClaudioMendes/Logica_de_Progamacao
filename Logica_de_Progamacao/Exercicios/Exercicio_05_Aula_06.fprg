@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Claudio_Oliveira"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-01-24 01:48:17 "/>
+        <attribute name="created" value="Q2xhdWRpb19PbGl2ZWlyYTtURVJNSU5BTC01OEM3OzIwMjMtMDEtMjQ7IjAxOjI3OjQ3ICI7MzY5Nw=="/>
+        <attribute name="edited" value="Q2xhdWRpb19PbGl2ZWlyYTtURVJNSU5BTC01OEM3OzIwMjMtMDEtMjQ7IjAxOjQ4OjE3ICI7MTszODA1"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="numero, multiplicacao, resultado" type="Integer" array="False" size=""/>
+            <assign variable="numero" expression="9"/>
+            <assign variable="multiplicacao" expression="1"/>
+            <assign variable="resultado" expression="9"/>
+            <while expression="multiplicacao&lt;=10">
+                <output expression="numero &amp; &quot; x &quot; &amp; multiplicacao &amp; &quot; = &quot; &amp; resultado" newline="True"/>
+                <assign variable="multiplicacao" expression="multiplicacao+1"/>
+                <assign variable="resultado" expression="resultado +9"/>
+            </while>
+        </body>
+    </function>
+</flowgorithm>

@@ -1,0 +1,3 @@
+Nesta aula eu aprendi que algoritimos são uma serie de passoes para
+resolver um problema e que Pseudocódigo é uma forma de escrever um
+alforitimo ultilizando uma linguagem simples
